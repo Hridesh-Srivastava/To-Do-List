@@ -29,7 +29,7 @@ Follow these steps to set up the project locally on your machine.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Hridesh-Srivastava/To-Do-List.git
   
 2. Navigate to the project directory:
 
