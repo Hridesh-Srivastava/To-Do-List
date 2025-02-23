@@ -49,6 +49,10 @@ http://localhost:5173
 
 You should see the To-Do List app running.
 
+## Live Version :
+You can see the complete hosted website on <strong>Vercel</strong> by clicking on the link below :
+<pre> to-do-list-omega-red.vercel.app </pre>
+
 ## Contributing :
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
